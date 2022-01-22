@@ -33,25 +33,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-# Preview
-
-!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642869909/My%20apps/screencapture-localhost-3000-create-2021-09-19-13_25_20_gsqdzd.png "Fitness System")
-
-!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642869912/My%20apps/screencapture-localhost-3000-2021-09-19-13_23_32_y3cvpn.png "Fitness System")
-
-!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642869918/My%20apps/screencapture-localhost-3000-edit-613f83749c6d1233904c5e27-2021-09-19-13_25_45_lxs650.png "Fitness System")
-
-!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870030/My%20apps/screencapture-localhost-3000-accept-2021-09-19-13_26_12_hmzzco.png "Fitness System")
-
-!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870039/My%20apps/screencapture-localhost-3000-staff-2021-09-19-13_27_02_rqb1u7.png "Fitness System")
-
-!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870045/My%20apps/screencapture-localhost-3000-report-2021-09-19-13_27_45_bkli7q.png "Fitness System")
-
-!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870072/My%20apps/screencapture-localhost-3000-mailer-2021-09-19-13_27_22_hm6bic.png "Fitness System")
-
-!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870079/My%20apps/screencapture-localhost-3000-demo-2021-09-19-13_26_42_nab40d.png "Fitness System")
-
-
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
@@ -87,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Preview
+
+!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642869909/My%20apps/screencapture-localhost-3000-create-2021-09-19-13_25_20_gsqdzd.png "Fitness System")
+
+!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642869912/My%20apps/screencapture-localhost-3000-2021-09-19-13_23_32_y3cvpn.png "Fitness System")
+
+!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642869918/My%20apps/screencapture-localhost-3000-edit-613f83749c6d1233904c5e27-2021-09-19-13_25_45_lxs650.png "Fitness System")
+
+!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870030/My%20apps/screencapture-localhost-3000-accept-2021-09-19-13_26_12_hmzzco.png "Fitness System")
+
+!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870039/My%20apps/screencapture-localhost-3000-staff-2021-09-19-13_27_02_rqb1u7.png "Fitness System")
+
+!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870045/My%20apps/screencapture-localhost-3000-report-2021-09-19-13_27_45_bkli7q.png "Fitness System")
+
+!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870072/My%20apps/screencapture-localhost-3000-mailer-2021-09-19-13_27_22_hm6bic.png "Fitness System")
+
+!["Fitness System"](https://res.cloudinary.com/dyelytpla/image/upload/v1642870079/My%20apps/screencapture-localhost-3000-demo-2021-09-19-13_26_42_nab40d.png "Fitness System")
+
